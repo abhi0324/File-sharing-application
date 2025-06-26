@@ -28,6 +28,8 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background: url(https://images.pexels.com/photos/866351/pexels-photo-866351.jpeg);
+  background-size: auto;
 }
 
 h1 {
